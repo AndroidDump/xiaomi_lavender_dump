@@ -1,0 +1,13 @@
+# lavender-user 10 QKQ1.190910.002 20.12.25 release-keys
+- manufacturer: xiaomi
+- platform: sdm660
+- codename: lavender
+- flavor: lavender-user
+- release: 10
+- id: QKQ1.190910.002
+- incremental: 20.12.25
+- tags: release-keys
+- fingerprint: xiaomi/lavender/lavender:10/QKQ1.190910.002/20.12.25:user/release-keys
+- brand: xiaomi
+- branch: lavender-user-10-QKQ1.190910.002-20.12.25-release-keys
+- repo: xiaomi_lavender_dump
